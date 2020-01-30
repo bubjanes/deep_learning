@@ -1,4 +1,4 @@
-# Aprendizaje Profundo|Diplomatura en ciencias de datos|UNC - FaMAF
+# Aprendizaje Profundo|[Diplomatura en ciencias de datos](http://diplodatos.famaf.unc.edu.ar/)|UNC - FaMAF
 ## Brandon Janes
 ## Profesores: Cristian Cardellino y Milagro Teruel
 
